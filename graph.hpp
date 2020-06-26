@@ -6,7 +6,6 @@
 
 using namespace std;
 
-// O(n)
 class Graph {
     map<int, set<int>> adj_list;
 public:
